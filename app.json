@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Zoho data",
+    "slug": "zoho-crm-db-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "android": {
+      "package": "com.hearinghope.visitordatabase"
+    },
+    "scheme": "visitordb",
+    "extra": {
+      "eas": {
+        "projectId": "fd829a7b-0841-4dcc-8fc9-13de678863c4"
+      }
+    }
+  }
+}
