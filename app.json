@@ -10,6 +10,18 @@
       "package": "com.hearinghope.visitordatabase"
     },
     "scheme": "visitordb",
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "compileSdkVersion": 35,
+            "targetSdkVersion": 35,
+            "buildToolsVersion": "35.0.0"
+          }
+        }
+      ]
+    ],
     "extra": {
       "eas": {
         "projectId": "fd829a7b-0841-4dcc-8fc9-13de678863c4"
